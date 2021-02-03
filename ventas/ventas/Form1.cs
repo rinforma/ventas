@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hola mundo");
+            MessageBox.Show("un pueblo educado es dificil de engañer");
         }
     }
 }
